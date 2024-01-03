@@ -3,5 +3,6 @@
     "symbol": "BOBAFI",
     "description": "BobaFi: Fueling the memeverse and crypto space with FOMO and FUD.",
     "image": "https://raw.githubusercontent.com/TheHealthCalendar/crypto-coin-test/main/Boba%20Finance%20Logo.png",
-    "uri": "https://github.com/TheHealthCalendar/crypto-coin-test/blob/1ff610104a50c03f8c2fe72c89e906aeb3fed9ff/metadata.json"
+    "uri": "https://github.com/TheHealthCalendar/crypto-coin-test/blob/1ff610104a50c03f8c2fe72c89e906aeb3fed9ff/metadata.json",
+    "sellerFeeBasisPoints": 0
 }
